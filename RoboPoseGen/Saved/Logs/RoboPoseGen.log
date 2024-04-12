@@ -6109,3 +6109,396 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.04.12-04.38.54:991][111]LogSlate: Window 'Plugins' being destroyed
 [2024.04.12-04.38.54:994][111]LogSlate: Window 'Plugins' being destroyed
 [2024.04.12-04.38.54:994][111]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2024.04.12-04.40.36:108][825]LogViewport: Scene viewport resized to 1893x1069, mode Windowed.
+[2024.04.12-04.40.36:176][827]LogViewport: Scene viewport resized to 1893x1045, mode Windowed.
+[2024.04.12-04.40.36:209][828]LogViewport: Scene viewport resized to 1893x1008, mode Windowed.
+[2024.04.12-04.40.36:237][829]LogViewport: Scene viewport resized to 1893x972, mode Windowed.
+[2024.04.12-04.40.36:268][830]LogViewport: Scene viewport resized to 1893x928, mode Windowed.
+[2024.04.12-04.40.36:300][831]LogViewport: Scene viewport resized to 1893x894, mode Windowed.
+[2024.04.12-04.40.36:330][832]LogViewport: Scene viewport resized to 1893x875, mode Windowed.
+[2024.04.12-04.40.36:357][833]LogViewport: Scene viewport resized to 1893x860, mode Windowed.
+[2024.04.12-04.40.36:385][834]LogViewport: Scene viewport resized to 1893x845, mode Windowed.
+[2024.04.12-04.40.36:413][835]LogViewport: Scene viewport resized to 1893x836, mode Windowed.
+[2024.04.12-04.40.36:440][836]LogViewport: Scene viewport resized to 1893x833, mode Windowed.
+[2024.04.12-04.40.36:466][837]LogViewport: Scene viewport resized to 1893x832, mode Windowed.
+[2024.04.12-04.40.37:381][933]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/RoboPoseGenCharacter.RoboPoseGenCharacter
+[2024.04.12-04.40.37:382][933]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-04.40.37:382][933]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-04.40.45:895][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-04.40.45:989][586]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/RoboPoseGenCharacter" FILE="D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/ThirdPerson/Blueprints/RoboPoseGenCharacter.uasset" SILENT=true
+[2024.04.12-04.40.46:228][586]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/RoboPoseGenCharacter
+[2024.04.12-04.40.46:229][586]LogSavePackage: Moving 'D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Saved/RoboPoseGenCharacter2C99F4A348D7413EA1C15E80AA8182F0.tmp' to 'D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/ThirdPerson/Blueprints/RoboPoseGenCharacter.uasset'
+[2024.04.12-04.40.46:234][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 339 ms (total: 10.4 sec)
+[2024.04.12-04.40.46:235][586]AssetCheck: New page: Asset Save: RoboPoseGenCharacter
+[2024.04.12-04.40.46:235][586]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/RoboPoseGenCharacter.RoboPoseGenCharacter
+[2024.04.12-04.40.50:201][973]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.12-04.40.50:204][973]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.04.12-04.40.50:206][973]LogPlayLevel: [PlayLevel] Compiling RoboPoseGenCharacter before play...
+[2024.04.12-04.40.50:372][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.12-04.40.50:372][973]LogPlayLevel: PlayLevel: Blueprint regeneration took 167 ms (1 blueprints)
+[2024.04.12-04.40.50:372][973]PIE: New page: PIE session: Minimal_Default (Apr 12, 2024, 10:40:50 PM)
+[2024.04.12-04.40.50:373][973]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.04.12-04.40.50:375][973]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002291s)
+[2024.04.12-04.40.50:375][973]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002323s)
+[2024.04.12-04.40.50:385][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.04.12-04.40.50:387][973]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-04.40.50:387][973]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-04.40.50:387][973]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.04.12-04.40.50:387][973]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2024.04.12-04.40.50:387][973]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2024.04.12-04.40.50:387][973]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.12-04.40.50:387][973]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.12-04.40.50:387][973]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.12-04.40.50:387][973]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.12-04.40.50:387][973]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.12-04.40.50:387][973]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.12-04.40.50:387][973]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.12-04.40.50:387][973]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.12-04.40.50:388][973]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.12-04.40.50:388][973]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.12-04.40.50:388][973]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.12-04.40.50:389][973]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.12-04.40.50:404][973]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.04.12-04.40.50:404][973]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.12-04.40.50:404][973]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.12-04.40.50:404][973]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.12-04.40.50:405][973]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2024.04.12-04.40.50:405][973]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2024.04.12-04.40.50:406][973]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2024.04.12-04.40.50:406][973]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2024.04.12-04.40.50:406][973]LogInit: FAudioDevice initialized with ID 52.
+[2024.04.12-04.40.50:406][973]LogAudio: Display: Audio Device (ID: 52) registered with world 'Minimal_Default'.
+[2024.04.12-04.40.50:406][973]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.12-04.40.50:408][973]LogLoad: Game class is 'GameModeBase'
+[2024.04.12-04.40.50:411][973]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.04.12-13.40.50
+[2024.04.12-04.40.50:412][973]LogWorld: Bringing up level for play took: 0.003840
+[2024.04.12-04.40.50:413][973]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2024.04.12-04.40.50:414][973]PIE: Server logged in
+[2024.04.12-04.40.50:415][973]PIE: Play in editor total start time 0.21 seconds.
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: ================================================
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Total job queries 82, among them cache hits 0 (0.00%)
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 69 distinct outputs (84.15%)
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: RAM used: 2.35 MiB of 1.60 GiB budget. Usage: 0.14%
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Shaders Compiled: 82
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Jobs assigned 82, completed 82 (100%)
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Time job spent in pending queue: average 1.09 s, longest 3.39 s
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 3.47 s
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Job life time (pending + execution): average 2.86 s, max 4.01
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Shader code size: average 49.313 KiB, min 32.617 KiB, max 72.324 KiB
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.13 s
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 2.41 jobs/batch
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Average processing rate: 19.86 jobs/sec
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Total thread time: 36.918 s
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Total thread preprocess time: 2.534 s
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Percentage time preprocessing: 6.86%
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Effective parallelization: 8.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.62 sec, max 0.93 sec, min 0.22 sec)
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 0.62 sec, max 0.94 sec, min 0.21 sec)
+[2024.04.12-04.40.54:044][988]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 0.60 sec, max 0.71 sec, min 0.50 sec)
+[2024.04.12-04.40.54:045][988]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.60 sec, max 0.91 sec, min 0.23 sec)
+[2024.04.12-04.40.54:045][988]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.58 sec, max 0.80 sec, min 0.30 sec)
+[2024.04.12-04.40.54:045][988]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.12-04.40.54:045][988]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.70% of total time (compiled    4 times, average 0.62 sec, max 0.93 sec, min 0.22 sec)
+[2024.04.12-04.40.54:045][988]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 6.69% of total time (compiled    4 times, average 0.62 sec, max 0.94 sec, min 0.21 sec)
+[2024.04.12-04.40.54:045][988]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.53% of total time (compiled    4 times, average 0.60 sec, max 0.91 sec, min 0.23 sec)
+[2024.04.12-04.40.54:045][988]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.31% of total time (compiled    4 times, average 0.58 sec, max 0.80 sec, min 0.30 sec)
+[2024.04.12-04.40.54:045][988]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 6.08% of total time (compiled    4 times, average 0.56 sec, max 1.07 sec, min 0.21 sec)
+[2024.04.12-04.40.54:045][988]LogShaderCompilers: Display: ================================================
+[2024.04.12-04.40.54:122][993]LogCore: Display: Tracing Screenshot "1" taken with size: 1893 x 832
+[2024.04.12-04.40.54:160][994]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/1.jpg
+[2024.04.12-04.40.54:844][ 14]LogCore: Display: Tracing Screenshot "2" taken with size: 1893 x 832
+[2024.04.12-04.40.54:880][ 15]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/2.jpg
+[2024.04.12-04.40.56:109][ 92]LogCore: Display: Tracing Screenshot "3" taken with size: 1893 x 832
+[2024.04.12-04.40.56:128][ 93]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/3.jpg
+[2024.04.12-04.40.56:843][113]LogCore: Display: Tracing Screenshot "4" taken with size: 1893 x 832
+[2024.04.12-04.40.56:879][114]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/4.jpg
+[2024.04.12-04.40.57:578][134]LogCore: Display: Tracing Screenshot "5" taken with size: 1893 x 832
+[2024.04.12-04.40.57:597][135]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/5.jpg
+[2024.04.12-04.40.58:836][213]LogCore: Display: Tracing Screenshot "6" taken with size: 1893 x 832
+[2024.04.12-04.40.58:880][214]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/6.jpg
+[2024.04.12-04.40.59:583][234]LogCore: Display: Tracing Screenshot "7" taken with size: 1893 x 832
+[2024.04.12-04.40.59:597][235]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/7.jpg
+[2024.04.12-04.41.00:852][314]LogCore: Display: Tracing Screenshot "8" taken with size: 1893 x 832
+[2024.04.12-04.41.00:880][315]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/8.jpg
+[2024.04.12-04.41.01:584][335]LogCore: Display: Tracing Screenshot "9" taken with size: 1893 x 832
+[2024.04.12-04.41.01:596][336]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/9.jpg
+[2024.04.12-04.41.02:853][415]LogCore: Display: Tracing Screenshot "10" taken with size: 1893 x 832
+[2024.04.12-04.41.02:879][416]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/10.jpg
+[2024.04.12-04.41.03:622][436]LogCore: Display: Tracing Screenshot "11" taken with size: 1893 x 832
+[2024.04.12-04.41.03:661][437]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/11.jpg
+[2024.04.12-04.41.04:902][513]LogCore: Display: Tracing Screenshot "12" taken with size: 1893 x 832
+[2024.04.12-04.41.04:941][514]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/12.jpg
+[2024.04.12-04.41.05:325][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-04.41.05:325][518]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.04.12-04.41.05:325][518]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-04.41.05:325][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-04.41.05:328][518]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.12-04.41.05:331][518]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-04.41.05:344][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-04.41.05:344][518]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2024.04.12-04.41.05:344][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.12-04.41.05:346][518]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52
+[2024.04.12-04.41.05:350][518]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.12-04.41.05:513][519]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2024.04.12-04.42.06:920][573]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2024.04.12-04.42.06:922][573]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-04.42.06:922][573]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-04.42.06:928][573]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.04.12-04.42.07:073][573]LogToolMenus: Warning: Menu already registered : SkeletalMeshEditor.MeshContextMenu
+[2024.04.12-04.42.07:182][573]LogViewport: Scene viewport resized to 1910x1218, mode Windowed.
+[2024.04.12-04.44.16:487][481]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-04.44.16:487][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-04.44.24:938][161]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-04.44.25:116][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/RoboPoseGenCharacter" FILE="D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/ThirdPerson/Blueprints/RoboPoseGenCharacter.uasset" SILENT=true
+[2024.04.12-04.44.25:131][161]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/RoboPoseGenCharacter
+[2024.04.12-04.44.25:131][161]LogSavePackage: Moving 'D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Saved/RoboPoseGenCharacter86934F324F7D9FE5D561D2B490B92876.tmp' to 'D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/ThirdPerson/Blueprints/RoboPoseGenCharacter.uasset'
+[2024.04.12-04.44.25:139][161]LogFileHelpers: InternalPromptForCheckoutAndSave took 201 ms (total: 10.6 sec)
+[2024.04.12-04.44.25:140][161]AssetCheck: New page: Asset Save: RoboPoseGenCharacter
+[2024.04.12-04.44.25:140][161]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/RoboPoseGenCharacter.RoboPoseGenCharacter
+[2024.04.12-04.44.27:072][336]LogSlate: Window 'RoboPoseGenCharacter' being destroyed
+[2024.04.12-04.44.27:077][336]LogSlate: Window 'RoboPoseGenCharacter' being destroyed
+[2024.04.12-04.44.27:079][336]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-04.44.27:079][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-04.44.30:174][695]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.12-04.44.30:178][695]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.12-04.44.30:178][695]PIE: New page: PIE session: Minimal_Default (Apr 12, 2024, 10:44:30 PM)
+[2024.04.12-04.44.30:178][695]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.04.12-04.44.30:180][695]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002086s)
+[2024.04.12-04.44.30:180][695]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.002116s)
+[2024.04.12-04.44.30:190][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.04.12-04.44.30:192][695]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-04.44.30:192][695]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-04.44.30:192][695]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.04.12-04.44.30:193][695]LogPlayLevel: PIE: World Init took: (0.000755s)
+[2024.04.12-04.44.30:193][695]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2024.04.12-04.44.30:193][695]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.12-04.44.30:193][695]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.12-04.44.30:193][695]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.12-04.44.30:193][695]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.12-04.44.30:193][695]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.12-04.44.30:193][695]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.12-04.44.30:193][695]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.12-04.44.30:193][695]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.12-04.44.30:193][695]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.12-04.44.30:193][695]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.12-04.44.30:193][695]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.12-04.44.30:195][695]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.12-04.44.30:211][695]LogAudioMixer: Display: Using Audio Hardware Device Remote Audio
+[2024.04.12-04.44.30:211][695]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.12-04.44.30:211][695]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.12-04.44.30:211][695]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.12-04.44.30:212][695]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2024.04.12-04.44.30:212][695]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2024.04.12-04.44.30:213][695]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2024.04.12-04.44.30:213][695]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2024.04.12-04.44.30:213][695]LogInit: FAudioDevice initialized with ID 53.
+[2024.04.12-04.44.30:213][695]LogAudio: Display: Audio Device (ID: 53) registered with world 'Minimal_Default'.
+[2024.04.12-04.44.30:213][695]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.12-04.44.30:215][695]LogLoad: Game class is 'GameModeBase'
+[2024.04.12-04.44.30:217][695]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2024.04.12-13.44.30
+[2024.04.12-04.44.30:219][695]LogWorld: Bringing up level for play took: 0.003499
+[2024.04.12-04.44.30:220][695]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2024.04.12-04.44.30:221][695]PIE: Server logged in
+[2024.04.12-04.44.30:221][695]PIE: Play in editor total start time 0.044 seconds.
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: ================================================
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Total job queries 82, among them cache hits 0 (0.00%)
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Tracking 82 distinct input hashes that result in 69 distinct outputs (84.15%)
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: RAM used: 2.35 MiB of 1.60 GiB budget. Usage: 0.14%
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Shaders Compiled: 82
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Jobs assigned 82, completed 82 (100%)
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Time job spent in pending queue: average 1.09 s, longest 3.39 s
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Job execution time: average 1.77 s, max 3.47 s
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Job life time (pending + execution): average 2.86 s, max 4.01
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Shader code size: average 49.313 KiB, min 32.617 KiB, max 72.324 KiB
+[2024.04.12-04.44.30:618][710]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.13 s
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 2.41 jobs/batch
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display: Average processing rate: 19.86 jobs/sec
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display: Total thread time: 36.918 s
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display: Total thread preprocess time: 2.534 s
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display: Percentage time preprocessing: 6.86%
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display: Effective parallelization: 8.94 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    4 times, average 0.62 sec, max 0.93 sec, min 0.22 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    4 times, average 0.62 sec, max 0.94 sec, min 0.21 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:                                           FLumenCardPS<true> (compiled    2 times, average 0.60 sec, max 0.71 sec, min 0.50 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    4 times, average 0.60 sec, max 0.91 sec, min 0.23 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    4 times, average 0.58 sec, max 0.80 sec, min 0.30 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight - 6.70% of total time (compiled    4 times, average 0.62 sec, max 0.93 sec, min 0.22 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ - 6.69% of total time (compiled    4 times, average 0.62 sec, max 0.94 sec, min 0.21 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ - 6.53% of total time (compiled    4 times, average 0.60 sec, max 0.91 sec, min 0.23 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.31% of total time (compiled    4 times, average 0.58 sec, max 0.80 sec, min 0.30 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight - 6.08% of total time (compiled    4 times, average 0.56 sec, max 1.07 sec, min 0.21 sec)
+[2024.04.12-04.44.30:619][710]LogShaderCompilers: Display: ================================================
+[2024.04.12-04.44.30:690][715]LogCore: Display: Tracing Screenshot "1" taken with size: 1893 x 832
+[2024.04.12-04.44.30:722][716]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/1.jpg
+[2024.04.12-04.44.31:403][736]LogCore: Display: Tracing Screenshot "2" taken with size: 1893 x 832
+[2024.04.12-04.44.31:441][737]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/2.jpg
+[2024.04.12-04.44.32:121][757]LogCore: Display: Tracing Screenshot "3" taken with size: 1893 x 832
+[2024.04.12-04.44.32:160][758]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/3.jpg
+[2024.04.12-04.44.33:369][834]LogCore: Display: Tracing Screenshot "4" taken with size: 1893 x 832
+[2024.04.12-04.44.33:411][835]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/4.jpg
+[2024.04.12-04.44.34:099][855]LogCore: Display: Tracing Screenshot "5" taken with size: 1893 x 832
+[2024.04.12-04.44.34:129][856]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/5.jpg
+[2024.04.12-04.44.34:819][876]LogCore: Display: Tracing Screenshot "6" taken with size: 1893 x 832
+[2024.04.12-04.44.34:848][877]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/6.jpg
+[2024.04.12-04.44.36:085][954]LogCore: Display: Tracing Screenshot "7" taken with size: 1893 x 832
+[2024.04.12-04.44.36:098][954]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/7.jpg
+[2024.04.12-04.44.36:796][975]LogCore: Display: Tracing Screenshot "8" taken with size: 1893 x 832
+[2024.04.12-04.44.36:816][976]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/8.jpg
+[2024.04.12-04.44.38:070][ 54]LogCore: Display: Tracing Screenshot "9" taken with size: 1893 x 832
+[2024.04.12-04.44.38:098][ 55]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/9.jpg
+[2024.04.12-04.44.38:799][ 75]LogCore: Display: Tracing Screenshot "10" taken with size: 1893 x 832
+[2024.04.12-04.44.38:816][ 76]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/10.jpg
+[2024.04.12-04.44.40:070][155]LogCore: Display: Tracing Screenshot "11" taken with size: 1893 x 832
+[2024.04.12-04.44.40:097][156]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/11.jpg
+[2024.04.12-04.44.40:799][176]LogCore: Display: Tracing Screenshot "12" taken with size: 1893 x 832
+[2024.04.12-04.44.40:817][177]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/12.jpg
+[2024.04.12-04.44.42:065][256]LogCore: Display: Tracing Screenshot "13" taken with size: 1893 x 832
+[2024.04.12-04.44.42:099][257]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/13.jpg
+[2024.04.12-04.44.42:796][277]LogCore: Display: Tracing Screenshot "14" taken with size: 1893 x 832
+[2024.04.12-04.44.42:816][278]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/14.jpg
+[2024.04.12-04.44.44:057][358]LogCore: Display: Tracing Screenshot "15" taken with size: 1893 x 832
+[2024.04.12-04.44.44:097][359]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/15.jpg
+[2024.04.12-04.44.44:795][379]LogCore: Display: Tracing Screenshot "16" taken with size: 1893 x 832
+[2024.04.12-04.44.44:816][380]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/16.jpg
+[2024.04.12-04.44.46:054][457]LogCore: Display: Tracing Screenshot "17" taken with size: 1893 x 832
+[2024.04.12-04.44.46:066][458]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/17.jpg
+[2024.04.12-04.44.46:769][478]LogCore: Display: Tracing Screenshot "18" taken with size: 1893 x 832
+[2024.04.12-04.44.46:786][478]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/18.jpg
+[2024.04.12-04.44.48:036][558]LogCore: Display: Tracing Screenshot "19" taken with size: 1893 x 832
+[2024.04.12-04.44.48:067][559]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/19.jpg
+[2024.04.12-04.44.48:763][579]LogCore: Display: Tracing Screenshot "20" taken with size: 1893 x 832
+[2024.04.12-04.44.48:785][580]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/20.jpg
+[2024.04.12-04.44.50:027][658]LogCore: Display: Tracing Screenshot "21" taken with size: 1893 x 832
+[2024.04.12-04.44.50:066][659]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/21.jpg
+[2024.04.12-04.44.50:766][679]LogCore: Display: Tracing Screenshot "22" taken with size: 1893 x 832
+[2024.04.12-04.44.50:784][680]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/22.jpg
+[2024.04.12-04.44.52:027][758]LogCore: Display: Tracing Screenshot "23" taken with size: 1893 x 832
+[2024.04.12-04.44.52:067][759]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/23.jpg
+[2024.04.12-04.44.52:767][779]LogCore: Display: Tracing Screenshot "24" taken with size: 1893 x 832
+[2024.04.12-04.44.52:786][780]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/24.jpg
+[2024.04.12-04.44.54:026][858]LogCore: Display: Tracing Screenshot "25" taken with size: 1893 x 832
+[2024.04.12-04.44.54:068][859]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/25.jpg
+[2024.04.12-04.44.54:766][879]LogCore: Display: Tracing Screenshot "26" taken with size: 1893 x 832
+[2024.04.12-04.44.54:785][880]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/26.jpg
+[2024.04.12-04.44.56:027][959]LogCore: Display: Tracing Screenshot "27" taken with size: 1893 x 832
+[2024.04.12-04.44.56:067][960]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/27.jpg
+[2024.04.12-04.44.56:765][980]LogCore: Display: Tracing Screenshot "28" taken with size: 1893 x 832
+[2024.04.12-04.44.56:785][981]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/28.jpg
+[2024.04.12-04.44.58:029][ 59]LogCore: Display: Tracing Screenshot "29" taken with size: 1893 x 832
+[2024.04.12-04.44.58:067][ 60]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/29.jpg
+[2024.04.12-04.44.58:763][ 80]LogCore: Display: Tracing Screenshot "30" taken with size: 1893 x 832
+[2024.04.12-04.44.58:785][ 81]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/30.jpg
+[2024.04.12-04.45.00:030][158]LogCore: Display: Tracing Screenshot "31" taken with size: 1893 x 832
+[2024.04.12-04.45.00:066][159]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/31.jpg
+[2024.04.12-04.45.00:763][179]LogCore: Display: Tracing Screenshot "32" taken with size: 1893 x 832
+[2024.04.12-04.45.00:786][180]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/32.jpg
+[2024.04.12-04.45.02:033][258]LogCore: Display: Tracing Screenshot "33" taken with size: 1893 x 832
+[2024.04.12-04.45.02:066][259]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/33.jpg
+[2024.04.12-04.45.02:738][279]LogCore: Display: Tracing Screenshot "34" taken with size: 1893 x 832
+[2024.04.12-04.45.02:753][280]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/34.jpg
+[2024.04.12-04.45.03:458][300]LogCore: Display: Tracing Screenshot "35" taken with size: 1893 x 832
+[2024.04.12-04.45.03:475][301]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/35.jpg
+[2024.04.12-04.45.04:716][380]LogCore: Display: Tracing Screenshot "36" taken with size: 1893 x 832
+[2024.04.12-04.45.04:755][381]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/36.jpg
+[2024.04.12-04.45.05:456][401]LogCore: Display: Tracing Screenshot "37" taken with size: 1893 x 832
+[2024.04.12-04.45.05:472][402]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/37.jpg
+[2024.04.12-04.45.06:721][481]LogCore: Display: Tracing Screenshot "38" taken with size: 1893 x 832
+[2024.04.12-04.45.06:755][482]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/38.jpg
+[2024.04.12-04.45.07:455][502]LogCore: Display: Tracing Screenshot "39" taken with size: 1893 x 832
+[2024.04.12-04.45.07:472][503]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/39.jpg
+[2024.04.12-04.45.08:718][582]LogCore: Display: Tracing Screenshot "40" taken with size: 1893 x 832
+[2024.04.12-04.45.08:753][583]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/40.jpg
+[2024.04.12-04.45.09:467][603]LogCore: Display: Tracing Screenshot "41" taken with size: 1893 x 832
+[2024.04.12-04.45.09:504][604]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/41.jpg
+[2024.04.12-04.45.10:747][680]LogCore: Display: Tracing Screenshot "42" taken with size: 1893 x 832
+[2024.04.12-04.45.10:786][681]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/42.jpg
+[2024.04.12-04.45.11:533][701]LogCore: Display: Tracing Screenshot "43" taken with size: 1893 x 832
+[2024.04.12-04.45.11:567][702]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/43.jpg
+[2024.04.12-04.45.12:778][776]LogCore: Display: Tracing Screenshot "44" taken with size: 1893 x 832
+[2024.04.12-04.45.12:816][777]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/44.jpg
+[2024.04.12-04.45.13:519][797]LogCore: Display: Tracing Screenshot "45" taken with size: 1893 x 832
+[2024.04.12-04.45.13:536][798]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/45.jpg
+[2024.04.12-04.45.14:784][876]LogCore: Display: Tracing Screenshot "46" taken with size: 1893 x 832
+[2024.04.12-04.45.14:816][877]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/46.jpg
+[2024.04.12-04.45.15:518][897]LogCore: Display: Tracing Screenshot "47" taken with size: 1893 x 832
+[2024.04.12-04.45.15:535][898]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/47.jpg
+[2024.04.12-04.45.16:785][976]LogCore: Display: Tracing Screenshot "48" taken with size: 1893 x 832
+[2024.04.12-04.45.16:816][977]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/48.jpg
+[2024.04.12-04.45.17:520][997]LogCore: Display: Tracing Screenshot "49" taken with size: 1893 x 832
+[2024.04.12-04.45.17:535][998]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/49.jpg
+[2024.04.12-04.45.18:783][ 73]LogCore: Display: Tracing Screenshot "50" taken with size: 1893 x 832
+[2024.04.12-04.45.18:816][ 74]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/50.jpg
+[2024.04.12-04.45.19:519][ 94]LogCore: Display: Tracing Screenshot "51" taken with size: 1893 x 832
+[2024.04.12-04.45.19:535][ 95]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/51.jpg
+[2024.04.12-04.45.20:789][174]LogCore: Display: Tracing Screenshot "52" taken with size: 1893 x 832
+[2024.04.12-04.45.20:817][175]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/52.jpg
+[2024.04.12-04.45.21:522][195]LogCore: Display: Tracing Screenshot "53" taken with size: 1893 x 832
+[2024.04.12-04.45.21:536][196]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/53.jpg
+[2024.04.12-04.45.22:790][275]LogCore: Display: Tracing Screenshot "54" taken with size: 1893 x 832
+[2024.04.12-04.45.22:817][276]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/54.jpg
+[2024.04.12-04.45.23:513][296]LogCore: Display: Tracing Screenshot "55" taken with size: 1893 x 832
+[2024.04.12-04.45.23:535][297]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/55.jpg
+[2024.04.12-04.45.24:776][375]LogCore: Display: Tracing Screenshot "56" taken with size: 1893 x 832
+[2024.04.12-04.45.24:816][376]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/56.jpg
+[2024.04.12-04.45.25:512][396]LogCore: Display: Tracing Screenshot "57" taken with size: 1893 x 832
+[2024.04.12-04.45.25:534][397]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/57.jpg
+[2024.04.12-04.45.26:775][475]LogCore: Display: Tracing Screenshot "58" taken with size: 1893 x 832
+[2024.04.12-04.45.26:816][476]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/58.jpg
+[2024.04.12-04.45.27:521][496]LogCore: Display: Tracing Screenshot "59" taken with size: 1893 x 832
+[2024.04.12-04.45.27:535][497]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/59.jpg
+[2024.04.12-04.45.28:782][576]LogCore: Display: Tracing Screenshot "60" taken with size: 1893 x 832
+[2024.04.12-04.45.28:816][577]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/60.jpg
+[2024.04.12-04.45.29:495][597]LogCore: Display: Tracing Screenshot "61" taken with size: 1893 x 832
+[2024.04.12-04.45.29:536][598]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/61.jpg
+[2024.04.12-04.45.30:237][618]LogCore: Display: Tracing Screenshot "62" taken with size: 1893 x 832
+[2024.04.12-04.45.30:254][619]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/62.jpg
+[2024.04.12-04.45.31:500][697]LogCore: Display: Tracing Screenshot "63" taken with size: 1893 x 832
+[2024.04.12-04.45.31:536][698]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/63.jpg
+[2024.04.12-04.45.32:271][718]LogCore: Display: Tracing Screenshot "64" taken with size: 1893 x 832
+[2024.04.12-04.45.32:284][719]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/64.jpg
+[2024.04.12-04.45.33:537][798]LogCore: Display: Tracing Screenshot "65" taken with size: 1893 x 832
+[2024.04.12-04.45.33:566][799]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/65.jpg
+[2024.04.12-04.45.34:275][819]LogCore: Display: Tracing Screenshot "66" taken with size: 1893 x 832
+[2024.04.12-04.45.34:317][820]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/66.jpg
+[2024.04.12-04.45.35:539][896]LogCore: Display: Tracing Screenshot "67" taken with size: 1893 x 832
+[2024.04.12-04.45.35:567][897]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/67.jpg
+[2024.04.12-04.45.36:270][917]LogCore: Display: Tracing Screenshot "68" taken with size: 1893 x 832
+[2024.04.12-04.45.36:285][918]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/68.jpg
+[2024.04.12-04.45.37:533][996]LogCore: Display: Tracing Screenshot "69" taken with size: 1893 x 832
+[2024.04.12-04.45.37:567][997]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/69.jpg
+[2024.04.12-04.45.38:277][ 17]LogCore: Display: Tracing Screenshot "70" taken with size: 1893 x 832
+[2024.04.12-04.45.38:316][ 18]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/70.jpg
+[2024.04.12-04.45.39:540][ 94]LogCore: Display: Tracing Screenshot "71" taken with size: 1893 x 832
+[2024.04.12-04.45.39:566][ 95]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/71.jpg
+[2024.04.12-04.45.40:297][115]LogCore: Display: Tracing Screenshot "72" taken with size: 1893 x 832
+[2024.04.12-04.45.40:316][116]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/72.jpg
+[2024.04.12-04.45.41:563][194]LogCore: Display: Tracing Screenshot "73" taken with size: 1893 x 832
+[2024.04.12-04.45.41:597][195]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/73.jpg
+[2024.04.12-04.45.42:302][215]LogCore: Display: Tracing Screenshot "74" taken with size: 1893 x 832
+[2024.04.12-04.45.42:316][216]LogClient: High resolution screenshot saved as d:/ue5_temp/saved/74.jpg
+[2024.04.12-04.45.42:874][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-04.45.42:874][222]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2024.04.12-04.45.42:874][222]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.04.12-04.45.42:875][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-04.45.42:878][222]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.12-04.45.42:880][222]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.12-04.45.42:891][222]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.12-04.45.42:892][222]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2024.04.12-04.45.42:892][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.12-04.45.42:893][222]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2024.04.12-04.45.42:896][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.12-04.45.42:898][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.04.12-04.45.43:005][223]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2024.04.12-04.46.52:233][402]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/RoboPoseGenCharacter.RoboPoseGenCharacter
+[2024.04.12-04.46.52:233][402]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.12-04.46.52:233][402]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.12-04.48.34:105][544]LogSlate: Took 0.005847 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
