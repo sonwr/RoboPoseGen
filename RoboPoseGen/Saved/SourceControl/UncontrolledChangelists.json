@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/Maps/DefaultMap.umap",
+				"D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/Maps/DefaultMap_HLOD0_Instancing.uasset",
+				"D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/Maps/Minimal_Default.umap",
+				"D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/Maps/RoboPoseGenMap.umap",
+				"D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/ThirdPerson/Blueprints/RoboPoseGenCharacter.uasset",
+				"D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/ThirdPerson/Blueprints/KUCharacter.uasset",
+				"D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/StarterContent/Maps/Minimal_Default.umap",
+				"D:/Wooram Son/SRC/RoboPoseGen/RoboPoseGen/Content/BLueprints/LightBlueprint.uasset"
+			]
+		}
+	]
+}

@@ -1,0 +1,48 @@
+[+] Containers:
+ |- [+] Container: /Game/Maps/DefaultMap
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:0717A890414C088D701C668665FA8FAD BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:0717A890414C088D701C668665FA8FAD BaseClass: NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers SpatiallyLoaded:0 Bounds:Invalid RuntimeGrid:None EditorOnly:0 RuntimeOnly:0 HLODRelevant:0 ListedInSceneOutliner:1 IsMainWorldOnly:1
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-        ID: 00000000000000000000000000000000
+ |   |-  ParentID: 00000000000000000000000000000000
+ |   |-    Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+ |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |- Container: /Game/Maps/DefaultMap
+----------------------------------------------------------------------------------------------------------------
+DefaultMap - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of DefaultMap Persistent Level
+ |- Always loaded Actor Count: 6 
+ |- Actor Path: /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.AbstractNavData-Default
+ |- Actor Package: /Game/Maps/DefaultMap
+ |- Actor Path: /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.Brush_0
+ |- Actor Package: /Game/Maps/DefaultMap
+ |- Actor Path: /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.DefaultPhysicsVolume_0
+ |- Actor Package: /Game/Maps/DefaultMap
+ |- Actor Path: /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.GameplayDebuggerPlayerManager_0
+ |- Actor Package: /Game/Maps/DefaultMap
+ |- Actor Path: /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/Maps/DefaultMap/A/78/0B7Z8K09TJ82T2JISA770E
+ |- Actor Path: /Game/Maps/DefaultMap.DefaultMap:PersistentLevel.WorldSettings
+ |- Actor Package: /Game/Maps/DefaultMap
+
+----------------------------------------------------------------------------------------------------------------
+DefaultMap - Runtime Spatial Hash - Streaming Grid - MainGrid
+----------------------------------------------------------------------------------------------------------------
+            Origin: X=0.000 Y=0.000 Z=0.000
+         Cell Size: 25600
+      World Bounds: IsValid=false, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000)
+     Loading Range: 76800.00
+Block Slow Loading: No
+ ClientOnlyVisible: No
+            Origin: X=0.000 Y=0.000 Z=0.000
+
+[+] Grid Levels: 1
+ |- Level  0: Cell Count    0 | Cell Size   25600 | Actor Count    0 (0.0%)
+
+[+] Content of Grid Level 0
+
