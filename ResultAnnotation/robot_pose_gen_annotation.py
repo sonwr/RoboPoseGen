@@ -5,7 +5,7 @@ from glob import glob
 
 def create_output_directory():
     # Check if the output directory exists, if not, create it
-    output_dir = 'out'
+    output_dir = 'out_annotation'
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     return output_dir
@@ -18,8 +18,8 @@ def annotate_image(image_path, json_path, output_dir):
     # Specify the joints to be annotated
     joints_to_annotate = [
         "nose", "pelvis", "upperarm_l", "upperarm_r", "lowerarm_l", "lowerarm_r",
-        "hand_l", "hand_r", "neck_01", "thigh_l", "thigh_r", "calf_knee_l",
-        "calf_knee_r", "foot_l", "foot_r", "head"
+        "hand_l", "hand_r", "neck_01", "thigh_l", "thigh_r", "calf_l",
+        "calf_r", "foot_l", "foot_r", "head"
     ]
 
     # Load the JSON data
